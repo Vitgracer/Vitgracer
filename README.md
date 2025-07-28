@@ -3,24 +3,13 @@
 
 ---
 
-<div align="center" style="line-height:1;">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=3000&color=58A6FF&center=true&vCenter=true&width=700&lines=10%2B+years+in+AI+%26+Computer+Vision+R%26D"
-    style="display:block; margin:4px auto 4px auto;"
-  />
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=3000&color=58A6FF&center=true&vCenter=true&width=700&lines=Author%2Fco-author+of+multiple+AI+papers+and+patents"
-    style="display:block; margin:4px auto 4px auto;"
-  />
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=3000&color=58A6FF&center=true&vCenter=true&width=700&lines=Successfully+commercialized+R%26D-based+solutions"
-    style="display:block; margin:4px auto 4px auto;"
-  />
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=3000&color=58A6FF&center=true&vCenter=true&width=700&lines=Leadership+roles+at+Samsung+%26+Huawei"
-    style="display:block; margin:4px auto 4px auto;"
-  />
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=2500&color=58A6FF&center=true&vCenter=true&width=800&lines=%F0%9F%94%A5+13%2B+years+in+AI+%26+Computer+Vision+R%26D" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=2500&color=58A6FF&center=true&vCenter=true&width=800&lines=%F0%9F%93%9A+Author%2Fco-author+of+%E2%AD%90+15%2B+AI+papers+%26+patents" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=2500&color=58A6FF&center=true&vCenter=true&width=800&lines=%F0%9F%8C%8D+Solutions+used+by+%F0%9F%8C%9FMILLIONS%F0%9F%8C%9F+of+users" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=2500&color=58A6FF&center=true&vCenter=true&width=800&lines=%F0%9F%9A%80+Led+AI+teams+at+Samsung+%26+Huawei" />
+</p>
+
 
 ---
 
