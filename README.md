@@ -26,3 +26,17 @@
 `Python` | `PyTorch` | `TorchScript` | `OpenCL` | `C++`  | `HuggingFace` | `Transformers` | `Bitsandbytes`  `OpenCV` | `TensorFlow` | `Keras` | `DVC` | `FiftyOne` | `CMake` | `Git` | `ClearML` | `ClearML`
 
 ---
+
+### 🚀 Highlight Projects
+
+🧠 [Offline-Voice-LLM-Assistant](https://github.com/Vitgracer/Offline-Voice-LLM-assistant)  
+> Fully local voice-driven AI assistant powered by 4-bit LLMs.
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vitgracer&repo=Offline-Voice-LLM-assistant&theme=monokai)](https://github.com/Vitgracer/Offline-Voice-LLM-assistant)
+
+🧠 [SwapFace](https://github.com/Vitgracer/SwapFace)  
+> Face Swapper based on Laplacian Pyramids.
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vitgracer&repo=SwapFace&theme=monokai)](https://github.com/Vitgracer/SwapFace)
+
+---
