@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Vitaly </h1>
-<h3 align="center">AI & Computer Vision Engineer | Generative AI | Deep Learning </h3>
+<h3 align="center">🚀 AI & Computer Vision Engineer | 🤖 Generative AI | 🧠 Deep Learning </h3>
 
 ---
 
@@ -35,8 +35,6 @@
 
 ### 🧰 Technologies & Tools
 
-`Python` | `PyTorch` | `TorchScript` | `OpenCL` | `C++`  
-`HuggingFace` | `Bitsandbytes` | `OpenCV` | `TensorFlow` | `Keras`
-`DVC` | `FiftyOne` | `CMake` | `Git`
+`Python` | `PyTorch` | `TorchScript` | `OpenCL` | `C++`  | `HuggingFace` | 'Transformers' | `Bitsandbytes` | `OpenCV` | `TensorFlow` | `Keras` | `DVC` | `FiftyOne` | `CMake` | `Git` | `ClearML` | `ClearML`
 
 ---
