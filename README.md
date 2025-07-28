@@ -17,13 +17,12 @@
 
 - 🎓 Master’s Degree in Applied Mathematics
 - 📌 Focus: Generative AI, Computer Vision, LLMs, Edge AI
-- 🏆 Multiple AI **patents**, **publications**, and **production-ready solutions**
-- 🧪 Built & deployed AI for Samsung, Huawei, Brighter AI, Wargaming
+- 🐱 Love cats
 
 ---
 
 ### 🧰 Technologies & Tools
 
-`Python` | `PyTorch` | `TorchScript` | `OpenCL` | `C++`  | `HuggingFace` | 'Transformers' | `Bitsandbytes` | `OpenCV` | `TensorFlow` | `Keras` | `DVC` | `FiftyOne` | `CMake` | `Git` | `ClearML` | `ClearML`
+`Python` | `PyTorch` | `TorchScript` | `OpenCL` | `C++`  | `HuggingFace` | `Transformers` | `Bitsandbytes`  `OpenCV` | `TensorFlow` | `Keras` | `DVC` | `FiftyOne` | `CMake` | `Git` | `ClearML` | `ClearML`
 
 ---
