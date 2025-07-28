@@ -17,7 +17,6 @@
 
 - 🎓 Master’s Degree in Applied Mathematics
 - 📌 Focus: Generative AI, Computer Vision, LLMs, Edge AI
-- 🐱 Love cats
 
 ---
 
