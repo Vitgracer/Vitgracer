@@ -40,3 +40,13 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vitgracer&repo=SwapFace&theme=monokai)](https://github.com/Vitgracer/SwapFace)
 
 ---
+
+### 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vitgracer&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitgracer&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vitgracer&theme=tokyonight" />
+</p>
+
+---
