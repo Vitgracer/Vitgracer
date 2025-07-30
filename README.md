@@ -28,6 +28,11 @@
 
 ### 🚀 Highlight Projects
 
+🧠 [TalkFast](https://github.com/Vitgracer/talkfast-game-telegram-bot)  
+> A fast-paced, language-learning, party-packed Alias-style game bot for Telegram 🎉
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vitgracer&repo=talkfast-game-telegram-bot&theme=monokai)](https://github.com/Vitgracer/talkfast-game-telegram-bot)
+
 🧠 [Offline-Voice-LLM-Assistant](https://github.com/Vitgracer/Offline-Voice-LLM-assistant)  
 > Fully local voice-driven AI assistant powered by 4-bit LLMs.
 
