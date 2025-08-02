@@ -22,7 +22,7 @@
 
 ### 🧰 Technologies & Tools
 
-`Python` | `PyTorch` | `TorchScript` | `OpenCL` | `C++`  | `HuggingFace` | `Transformers` | `Bitsandbytes`  `OpenCV` | `TensorFlow` | `Keras` | `DVC` | `FiftyOne` | `CMake` | `Git` | `ClearML` | `ClearML`
+`Python` | `PyTorch` | `TorchScript` | `OpenCL` | `C++`  | `HuggingFace` | `Transformers` | `Bitsandbytes`  `OpenCV` | `TensorFlow` | `Keras` | `DVC` | `FiftyOne` | `CMake` | `Git` | `ClearML` 
 
 ---
 
