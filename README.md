@@ -43,6 +43,11 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vitgracer&repo=SwapFace&theme=monokai)](https://github.com/Vitgracer/SwapFace)
 
+🧠 [DINOv3 Object Tracking](https://github.com/Vitgracer/DinoV3-Object-Tracking)  
+> Track objects in videos using the powerful DINOv3 model.
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vitgracer&repo=DinoV3-Object-Tracking&theme=monokai)](https://github.com/Vitgracer/DinoV3-Object-Tracking)
+
 ---
 
 ### 📈 GitHub Activity
