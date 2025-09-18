@@ -56,4 +56,3 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vitgracer&theme=solarized)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Vitgracer&theme=solarized&utcOffset=3)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vitgracer&theme=solarized)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitgracer&layout=compact&theme=tokyonight" width="350" />
