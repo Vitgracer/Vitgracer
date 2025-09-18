@@ -52,8 +52,8 @@
 
 ### 📈 GitHub Activity
 
-<div align="center" style="width: 420px; margin: 0 auto;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vitgracer&show_icons=true&theme=tokyonight" width="420" height="150" style="display: block; margin-bottom: 15px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitgracer&layout=compact&theme=tokyonight" width="420" height="150" style="display: block; margin-bottom: 15px;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vitgracer&theme=tokyonight" width="420" height="150" style="display: block;" />
-</div>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vitgracer&theme=solarized)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vitgracer&theme=solarized)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Vitgracer&theme=solarized&utcOffset=3)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vitgracer&theme=solarized)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitgracer&layout=compact&theme=tokyonight" width="350" />
