@@ -28,6 +28,11 @@
 
 ### 🚀 Highlight Projects
 
+🧠 [SwapFace](https://github.com/Vitgracer/SwapFace)  
+> Face Swapper based on Laplacian Pyramids.
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vitgracer&repo=SwapFace&theme=monokai)](https://github.com/Vitgracer/SwapFace)
+
 🧠 [TalkFast](https://github.com/Vitgracer/talkfast-game-telegram-bot)  
 > A fast-paced, language-learning, party-packed Alias-style game bot for Telegram 🎉
 
@@ -37,11 +42,6 @@
 > Fully local voice-driven AI assistant powered by 4-bit LLMs.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vitgracer&repo=Offline-Voice-LLM-assistant&theme=monokai)](https://github.com/Vitgracer/Offline-Voice-LLM-assistant)
-
-🧠 [SwapFace](https://github.com/Vitgracer/SwapFace)  
-> Face Swapper based on Laplacian Pyramids.
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vitgracer&repo=SwapFace&theme=monokai)](https://github.com/Vitgracer/SwapFace)
 
 🧠 [DINOv3 Object Tracking](https://github.com/Vitgracer/DinoV3-Object-Tracking)  
 > Track objects in videos using the powerful DINOv3 model.
