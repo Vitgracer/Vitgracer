@@ -40,6 +40,9 @@
 🧠 [DINOv3 Object Tracking](https://github.com/Vitgracer/DinoV3-Object-Tracking)  
 > Track objects in videos using the powerful DINOv3 model.
 
+🧠 [Unchairted](https://github.com/Vitgracer/Unchairted)  
+> Real-time browser-based pose tracking game using web-camera and computer vision.
+
 ---
 
 ### 📈 GitHub Activity
